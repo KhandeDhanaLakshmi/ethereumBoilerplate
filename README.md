@@ -1,7 +1,7 @@
 
 # Simple Hardhat Boilerplate
 
-It comes with a MyToken contract, a test for that contract, a sample script that deploys that contract, etherscan config for verify contract, all test network and main network configuration ready just put your API_KEY & PRIVATE_KEY.
+It comes with a ercToken contract, a test for that contract, a sample script that deploys that contract, etherscan config for verify contract, all test network and main network configuration ready just put your API_KEY & PRIVATE_KEY.
 
 
 
